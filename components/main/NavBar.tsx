@@ -50,7 +50,6 @@ const NavBar = () => {
           className='m-auto hover:opacity-10'
         />
       </a>
-      <p className='text-white mb-2'>{social.name}</p>
     </div>
   ))}
 </div>

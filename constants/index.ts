@@ -40,7 +40,7 @@ export const Socials = [
     href:"https://www.linkedin.com/in/ahmed-osman-6668bb290/"
   },
   {
-    name: "ahmedamjedosman@gmail.com",
+    name: "gmail",
     src: "/Gmail-Logo.png",
   },
 ];
