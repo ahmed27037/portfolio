@@ -39,20 +39,22 @@ const NavBar = () => {
     </div>
 
     <div className="flex flex-row gap-5">
-          {Socials.map((social) => (
-            <a className='z-30' href={social.href}>
-              <p className='text-white mb-2'>{social.name}</p>
-            <Image
-              src={social.src}
-              alt={social.name}
-              key={social.name}
-              width={27}
-              height={26}
-              className='m-auto hover:opacity-10'
-            />
-            </a>
-          ))}
-        </div>
+  {Socials.map((social) => (
+    <div key={social.name} className="flex flex-col items-center">
+      <a className='z-30' href={social.href}>
+        <Image
+          src={social.src}
+          alt={social.name}
+          width={27}
+          height={26}
+          className='m-auto hover:opacity-10'
+        />
+      </a>
+      <p className='text-white mb-2'>{social.name}</p>
+    </div>
+  ))}
+</div>
+
 
   </div>
 </div>
