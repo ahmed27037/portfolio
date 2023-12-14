@@ -39,7 +39,6 @@ const NavBar = () => {
     </div>
 
     <div className="flex flex-row gap-5">
-      <p className='text-white '>My Contacts:</p>
           {Socials.map((social) => (
             <a className='z-30' href={social.href}>
               <p className='text-white mb-2'>{social.name}</p>
