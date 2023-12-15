@@ -24,20 +24,19 @@ export const Skill_data = [
     Image: "/ts.png",
     width: 80,
     height: 80,
-  }
-
+  },
 ];
 
 export const Socials = [
   {
     name: "Github",
     src: "/gitwhite.png",
-    href: "https://github.com/ahmed27037"
+    href: "https://github.com/ahmed27037",
   },
   {
     name: "LinkedIn",
     src: "/linkedin.png",
-    href:"https://www.linkedin.com/in/ahmed-osman-6668bb290/"
+    href: "https://www.linkedin.com/in/ahmed-osman-6668bb290/",
   },
   {
     name: "gmail",
@@ -45,10 +44,7 @@ export const Socials = [
   },
 ];
 
-
-
 export const Frontend_skill = [
-
   {
     skill_name: "React",
     Image: "/react.png",
@@ -122,7 +118,6 @@ export const Backend_skill = [
   },
 ];
 
-
 export const Other_skill = [
   {
     skill_name: "Github",
@@ -136,10 +131,4 @@ export const Other_skill = [
     width: 90,
     height: 90,
   },
-
-  
 ];
-
-
-
-
