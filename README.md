@@ -2,9 +2,12 @@
 
  ### I made this portfolio to showcase my skills, projects, and resume 
 
-  To copy This project and use it on your device just do:
+ To copy This project and use it on your device just do:
+ 
  git clone (project url)
+ 
  npm install 
+ 
  npm run dev
 
   You can edit the projects, resume, and skills by going to that section and editing it 
