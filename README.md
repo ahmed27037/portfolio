@@ -11,7 +11,7 @@
  npm run dev
 
   You can edit the projects, resume, and skills by going to that section and editing it 
-  To put your own picture or video just bring it from whereever you saved it to the public folder of the project
+  To put your own picture or video just bring it from wherever you saved it to the public folder of the project
   Then remember the name and insert it on the src of the page or section you want to insert it in
 
   enjoy and thank you
