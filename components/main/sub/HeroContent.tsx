@@ -46,7 +46,7 @@ const HeroContent = () => {
           diverse technologies in the frontend and backend
         </motion.p>
         <Link
-          href="AhmedOsman.pdf"
+          href="AhmedOsman3.pdf"
           className="py-2 text-center text-white cursor-pointer rounded-lg max-w-[200px] border-2 border-orange-800 bg-orange-900 hover:bg-orange-950 transition-colors"
         >
           Resume

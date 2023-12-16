@@ -30,7 +30,7 @@ const Projects = () => {
           src="/portfolio new.png"
           title="Portfolio Website"
           description="A portfolio website using Next.js and Framer Motion, a full-stack issue tracker web app with Next.js"
-          github="https://portfolio-mu-ochre-56.vercel.app/"
+          github="https://github.com/ahmed27037/portfolio"
         />
       </div>
     </div>
