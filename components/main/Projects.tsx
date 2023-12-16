@@ -27,7 +27,7 @@ const Projects = () => {
         />
         <ProjectCard
         href="https://portfolio-mu-ochre-56.vercel.app/"
-          src="/portfolio.png"
+          src="/portfolio new.png"
           title="Portfolio Website"
           description="A portfolio website using Next.js and Framer Motion, a full-stack issue tracker web app with Next.js"
           github="https://portfolio-mu-ochre-56.vercel.app/"
