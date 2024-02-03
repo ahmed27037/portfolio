@@ -26,11 +26,11 @@ const Projects = () => {
           github="https://github.com/ahmed27037/issue-tracker"
         />
         <ProjectCard
-        href="https://portfolio-mu-ochre-56.vercel.app/"
-          src="/portfolio new.png"
-          title="Portfolio Website"
-          description="A portfolio website using Next.js and Framer Motion, a full-stack issue tracker web app with Next.js"
-          github="https://github.com/ahmed27037/portfolio"
+        href="https://securevpn4u.com/"
+          src="/SecureVPN home pic.png"
+          title="Blogging Website"
+          description="A Blogging website build using WordPress and WordPress plugins"
+          github="https://github.com/ahmed27037"
         />
       </div>
     </div>
